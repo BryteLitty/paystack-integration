@@ -24,6 +24,29 @@
   color: white;
 }
 
+form {
+  width: 80%;
+  margin: auto;
+  color: grey;
+}
+
+
+
+input {
+  display: block;
+  padding: 10px;
+  width: 100%;
+  margin: 15px 0;
+}
+
+button {
+  margin: px 0;
+  background-color: rgb(120, 120, 226);
+  border: none;
+  color: white;
+  padding: 10px 15px;
+}
+
 .App-link {
   color: #61dafb;
 }
