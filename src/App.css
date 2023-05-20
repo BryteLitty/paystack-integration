@@ -47,6 +47,11 @@ button {
   padding: 10px 15px;
 }
 
+button:hover {
+  background-color: rgb(18, 18, 218);
+  cursor: pointer;
+}
+
 .App-link {
   color: #61dafb;
 }
